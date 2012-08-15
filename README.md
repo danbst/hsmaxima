@@ -3,8 +3,8 @@ hsmaxima
 
 *hsmaxima* is simple module for binding Maxima CAS (Computer Algebra System) to Haskell programs.
 
-Installation is not required, just copy-paste the `Maxima.hs` to your working directory. No external 
-libraries are required, Haskell Platform is only requirement.
+No installation, just copy-paste the `Maxima.hs` to your working directory. No external 
+libraries are required, Haskell Platform and maxima itself are only requirements.
 
 Helloworld program looks like this:
 ```
